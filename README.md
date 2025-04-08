@@ -8,3 +8,9 @@ This project aims to develop a system that retrieves relevant recipes based on a
 - **Xulun Luo**: Evaluation, testing, error analysis  
 - **Edward Lu**: Algorithm development, documentation, project management  
 
+## Progress Update
+
+### April 8th
+1. We cleaned our data and split our dataset into train, test and dev
+2. We implemented the basic TF-IDF to calculate the values we need
+3. We implemented the info-retreval based on the TF-IDF scores

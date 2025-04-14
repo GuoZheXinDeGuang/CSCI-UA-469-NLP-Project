@@ -14,3 +14,6 @@ This project aims to develop a system that retrieves relevant recipes based on a
 1. We cleaned our data and split our dataset into train, test and dev
 2. We implemented the basic TF-IDF to calculate the values we need
 3. We implemented the info-retreval based on the TF-IDF scores
+
+### April 14th
+1. Edward fine-tuned TF-IDF approach for recipe recommendation.

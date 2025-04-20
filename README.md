@@ -17,3 +17,9 @@ This project aims to develop a system that retrieves relevant recipes based on a
 
 ### April 14th
 1. Edward fine-tuned TF-IDF approach for recipe recommendation.
+
+### April 18th
+1. More functions of TF-IDF are added, including filtering the vegan, gluten-free and diabetic.
+2. The function of handling misspell is achieved by calculating relative distances between words.
+3. Evaluation is done; 13/15 of the test cases passed. 
+4. Continue working on the BERT model on our project.

@@ -1,4 +1,3 @@
-# build_embeddings.py
 import json, numpy as np, argparse
 from pathlib import Path
 from embeddings.bert_cls       import BertCLS        # or SentenceBERT

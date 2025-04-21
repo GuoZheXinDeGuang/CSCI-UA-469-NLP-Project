@@ -23,3 +23,9 @@ This project aims to develop a system that retrieves relevant recipes based on a
 2. The function of handling misspell is achieved by calculating relative distances between words.
 3. Evaluation is done; 13/15 of the test cases passed. 
 4. Continue working on the BERT model on our project.
+
+### April 20th
+1. Added Sentence‑BERT embeddings + FAISS index
+2. New retrieval modes: (semantic (dense only) + hybrid (60 % TF‑IDF + 40 % dense))
+3. Pass rate now 14 / 15; hybrid gives best scores
+4. Folder re‑org: embeddings/, build_embeddings.py, semantic_search.py

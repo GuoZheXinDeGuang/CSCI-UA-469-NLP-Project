@@ -28,3 +28,6 @@ This project aims to develop a system that retrieves relevant recipes based on a
 1. Added Sentence‑BERT embeddings + FAISS index
 2. New retrieval modes: (semantic (dense only) + hybrid (60 % TF‑IDF + 40 % dense))
 3. Folder re‑org: embeddings/, build_embeddings.py, semantic_search.py
+
+### May 3rd
+We finished our presentation and paper! Yay!!!
